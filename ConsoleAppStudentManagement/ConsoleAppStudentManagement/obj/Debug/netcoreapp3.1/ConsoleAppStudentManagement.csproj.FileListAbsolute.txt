@@ -1,0 +1,13 @@
+D:\Project\Training\ConsoleAppStudentManagement\ConsoleAppStudentManagement\bin\Debug\netcoreapp3.1\ConsoleAppStudentManagement.exe
+D:\Project\Training\ConsoleAppStudentManagement\ConsoleAppStudentManagement\bin\Debug\netcoreapp3.1\ConsoleAppStudentManagement.deps.json
+D:\Project\Training\ConsoleAppStudentManagement\ConsoleAppStudentManagement\bin\Debug\netcoreapp3.1\ConsoleAppStudentManagement.runtimeconfig.json
+D:\Project\Training\ConsoleAppStudentManagement\ConsoleAppStudentManagement\bin\Debug\netcoreapp3.1\ConsoleAppStudentManagement.runtimeconfig.dev.json
+D:\Project\Training\ConsoleAppStudentManagement\ConsoleAppStudentManagement\bin\Debug\netcoreapp3.1\ConsoleAppStudentManagement.dll
+D:\Project\Training\ConsoleAppStudentManagement\ConsoleAppStudentManagement\bin\Debug\netcoreapp3.1\ConsoleAppStudentManagement.pdb
+D:\Project\Training\ConsoleAppStudentManagement\ConsoleAppStudentManagement\obj\Debug\netcoreapp3.1\ConsoleAppStudentManagement.csprojAssemblyReference.cache
+D:\Project\Training\ConsoleAppStudentManagement\ConsoleAppStudentManagement\obj\Debug\netcoreapp3.1\ConsoleAppStudentManagement.AssemblyInfoInputs.cache
+D:\Project\Training\ConsoleAppStudentManagement\ConsoleAppStudentManagement\obj\Debug\netcoreapp3.1\ConsoleAppStudentManagement.AssemblyInfo.cs
+D:\Project\Training\ConsoleAppStudentManagement\ConsoleAppStudentManagement\obj\Debug\netcoreapp3.1\ConsoleAppStudentManagement.csproj.CoreCompileInputs.cache
+D:\Project\Training\ConsoleAppStudentManagement\ConsoleAppStudentManagement\obj\Debug\netcoreapp3.1\ConsoleAppStudentManagement.dll
+D:\Project\Training\ConsoleAppStudentManagement\ConsoleAppStudentManagement\obj\Debug\netcoreapp3.1\ConsoleAppStudentManagement.pdb
+D:\Project\Training\ConsoleAppStudentManagement\ConsoleAppStudentManagement\obj\Debug\netcoreapp3.1\ConsoleAppStudentManagement.genruntimeconfig.cache
